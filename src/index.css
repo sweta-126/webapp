@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: linear-gradient(to top,rgb(241, 232, 167),white);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
